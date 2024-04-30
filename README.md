@@ -10,7 +10,7 @@ This is the vanilla JS version of ProSuite meant to display a simple site.
 
 2024/02/28 ~ Day 4: Unable to do much progress today unfortunately but will definately get back on the horse tomorrow.
 
-2024/02/29 ~ Day 5: 
+2024/02/29 ~ Day 5: In the process of making the navbar more responsive.
 
 
-You can view the live version on [Vanilla ProSuite](https://luthojara.github.io/vanillaProSuite/) 
+You can view the live version on [Vanilla ProSuite](https://realluthojara.github.io/prosuite/) 
